@@ -1,0 +1,33 @@
+#main{
+	width: 40em;
+	height: 29em;
+	margin: auto;
+	padding:2% 1% 3% 1%;
+	border :1px;
+	border-style: inset;
+    box-shadow:10px 10px 20px lightgrey	;
+    font-size: 15px;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+}
+body{
+    padding-top: 8%;
+}
+#studentdetails{
+	font-size: 50px;
+	padding-top: 1%;
+    font-family: 'Orelega One', cursive;	color: #385288;
+}
+
+#due{
+	width: 70em;
+	height: 29em;
+	margin: auto;
+	padding:2% 1% 3% 1%;
+	border :1px;
+	border-style: inset;
+    box-shadow:10px 10px 20px lightgrey	;
+    font-size: 15px;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+}
